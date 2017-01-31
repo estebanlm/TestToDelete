@@ -1,0 +1,14 @@
+{
+	"category" : "TestToDelete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestToDelete",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
