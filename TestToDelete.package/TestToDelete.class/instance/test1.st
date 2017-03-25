@@ -1,4 +1,4 @@
 tests
 test1
-	"from linux"
+	"from linux, now from windows"
 	^ 42
