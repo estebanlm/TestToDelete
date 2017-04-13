@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "TestToDelete",
+	"name" : "TestToDeleteClass1",
 	"type" : "normal"
 }
