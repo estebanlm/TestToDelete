@@ -1,1 +1,1 @@
-SystemOrganization addCategory: 'TestToDelete'!
+SystemOrganization addCategory: #TestToDelete!
