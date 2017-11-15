@@ -1,3 +1,3 @@
 accessing
 method7
-	^ 42
+	^ 42+1
