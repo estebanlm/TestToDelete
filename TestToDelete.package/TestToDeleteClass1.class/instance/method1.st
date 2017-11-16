@@ -1,4 +1,4 @@
 accessing
 method1
-	"another conflict comment"
+	"still conflict comment"
 	^ 42
