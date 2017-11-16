@@ -1,3 +1,3 @@
 # just add a test
 
-edit, conflict!
+edit2, conflict!
